@@ -116,5 +116,4 @@ Paste:
 
 ## Notes
 
-- This folder is separate from the Lift Tracker Xcode project on purpose (free Pages needs a public repo; the app repo can stay private).
 - Always commit from this directory after the local `user.email` is set so personal email does not appear in history.
